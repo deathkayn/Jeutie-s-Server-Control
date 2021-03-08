@@ -1,4 +1,4 @@
-# Jeutie's Repack Control
+# Jeutie's Server Control
 
 WoW Repack Restarter. A simple but usefull tool to automatically restart MySQL , Apache but also World and Auth emulator server processes .
 
